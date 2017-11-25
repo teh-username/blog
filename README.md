@@ -15,3 +15,7 @@ npm install
 # run local server
 hexo server
 ```
+
+### TODO
+1. Minify Assets
+2. Serve assets via CDN
