@@ -222,4 +222,6 @@ Putting it all together gives us:
 
 {% jsfiddle sy29cnwm js,result dark %}
 
+## Edits
 
+1. This entry was presented at a [local Javascript meetup](https://www.meetup.com/ManilaJavaScript/events/242890430/). Presentation slides can be acquired [here](jsx_in_a_nutshell.pdf).
