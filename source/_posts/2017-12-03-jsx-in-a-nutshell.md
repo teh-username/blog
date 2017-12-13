@@ -2,6 +2,9 @@
 title: JSX in a Nutshell
 date: 2017-12-03 22:32:20
 tags:
+  - JSX
+  - React
+  - Virtual DOM
 ---
 
 
