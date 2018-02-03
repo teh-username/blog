@@ -3,5 +3,10 @@
        "name":"itap bot",
        "url":"https://github.com/teh-username/itap_bot/",
        "desc":"A reddit bot for the /r/itookapicture subreddit"
+    },
+    {
+       "name":"Git Gud Scrub",
+       "url":"https://github.com/teh-username/git-gud-scrub/",
+       "desc":"A web app for learning git"
     }
 ]
